@@ -225,14 +225,14 @@
   font-family: var(--font-head);
   font-weight: 800;
   font-size: clamp(2rem, 4vw, 3rem);
-  color: var(--c-white);
+  color: #000000;
   letter-spacing: -0.03em;
   margin-bottom: 16px;
   line-height: 1.1;
 }
 .device-tagline {
   font-size: 1rem;
-  color: var(--c-muted);
+  color: #000000;
   line-height: 1.7;
   margin-bottom: 24px;
   max-width: 480px;
@@ -245,7 +245,7 @@
 }
 .device-bullets li {
   font-size: 0.9rem;
-  color: var(--c-text);
+  color: #000000;
   display: flex;
   align-items: flex-start;
   gap: 8px;
